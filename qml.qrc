@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ListFormPage.ui.qml</file>
+        <file>GridFormPage.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ListViewDelegate.qml</file>
+        <file>FullSizeImage.qml</file>
+        <file>GridViewDelegate.qml</file>
+        <file>PathFormPage.ui.qml</file>
+        <file>ButtonOpenFile.qml</file>
+        <file>PathViewDelegate.qml</file>
+    </qresource>
+</RCC>
